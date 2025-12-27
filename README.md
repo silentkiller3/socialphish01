@@ -13,3 +13,4 @@ cd SocialPhish
 chmod +x socialphish.sh
 ./socialphish.sh
 ```
+done
